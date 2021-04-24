@@ -1,0 +1,15 @@
+
+https://services.odata.org/V2/Northwind/Northwind.svc/Customers?$filter=tolower(City) eq 'berlin'
+
+https://services.odata.org/V2/Northwind/Northwind.svc/Customers?$select=CustomerID,CompanyName,City
+
+https://services.odata.org/V2/Northwind/Northwind.svc/Customers?$format=json
+
+
+
+
+
+
+https://services.odata.org/V2/Northwind/Northwind.svc/Orders?$select=OrderDate 
+
+https://services.odata.org/V2/Northwind/Northwind.svc/Orders?$format=json
