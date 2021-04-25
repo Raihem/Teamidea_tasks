@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Введите число, для вычесления количества нулей от факториала этого числа, либо 'exit' для выхода");
+        System.out.println("Введите число, для вычисления количества нулей от факториала этого числа, либо 'exit' для выхода");
 
         while (true) {
 
